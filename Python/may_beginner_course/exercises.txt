@@ -1,0 +1,44 @@
+Create a variable called name, and give it your name as a value (text)
+Create a variable called age, and give it your age as a value (number)
+Create a variable called shoe_size, and give it your shoe size as a value
+Create a variable called info. Its value should be an interesting sentence about yourself, including your name, age, and shoe size. Use the variables you created earlier.
+	Write code so that when your script is run, all the above data is displayed in a message
+
+
+Write a little program that asks a user for his height (in inches) and determines whether people are tall enough to ride a roller coaster or not.
+(Minimum height is 35 inches)
+
+
+Write a little program that asks the user for a number and determines whether this number is odd or even.
+
+
+Given a list, use a while loop to print out every elements from the end to the beginning.
+
+
+Get a string from the user. The user must provide a string that is 10 characters long.
+Inform the user what the first and last characters of the string are
+‘Build’ the string up: print the first character, then the first 2, then the first 3, etc., until you print
+the entire string.
+Swap some of the characters around, then print out this jumbled-up string to the user. Be sure to label it appropriately.
+
+
+Write a loop that prompts the user to enter a series of pizza toppings until they enter a ‘quit’ value . As they enter each topping, print a message saying you’ll add that topping to their pizza .
+
+
+A movie theater charges different ticket prices depending on a person’s age . If a person is under the age of 3, the ticket is free; if they are between 3 and 12, the ticket is $10; and if they are over age 12, the ticket is $15 .
+Write a loop in which you ask users their age, and then tell them the cost of their movie ticket .
+
+
+Your code will print out the bill for a customer, with the help of the waiter/waitress.
+It will first ask some questions, and then print out the bill.
+Store the answers to the questions in variables, so that they can be used later on in your code.
+Ask the user (waiter) for each of these pieces of information, assuming that the customer ordered only one item (but multiple orders of the same item are allowed):
+a. The customer’s name (this is a friendly bar!)
+b. The name of the waiter/waitress
+c. The name of the item (eg. ‘beer’)
+d. The price of the item
+e. The amount of items that were ordered (eg. 3, when the customer had 3 beers)
+f. The discount amount (user should input zero if there was no discount)
+Now calculate the total to charge the customer
+Bonus: add VAT to the total
+Print out a nicely formatted bill for the user, on multiple lines. Add some lines of stars or hyphens to create the effect of a ‘border’ or ‘line’, to make it look more professional.
