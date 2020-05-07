@@ -1,0 +1,38 @@
+
+.t-heads {
+  font-size: 36px;
+}
+
+th {
+  padding-right: 50px;
+}
+
+table {
+  margin: auto;
+  border: 2px solid blue;
+}
+
+#last-head {
+  padding-right: 0px;
+}
+
+#apple {
+  color: red;
+}
+
+#banana {
+  color: yellow;
+  color: #E5E500;
+}
+
+body {
+  background-color: red;
+}
+
+table:hover {
+  background-color: white;
+}
+
+.t-heads > th {
+  text-decoration: underline;
+}

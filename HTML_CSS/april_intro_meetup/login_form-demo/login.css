@@ -1,0 +1,72 @@
+html, body {
+  position: relative;
+  min-height: 100vh;
+  background-color: #E1E8EE;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.form {
+  border-radius: 15px;
+  height: 550px;
+  width: 375px;
+  background-image: url('https://images.unsplash.com/photo-1507154258-c81e5cca5931?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80');
+  background-repeat: no-repeat;
+  background-position: left bottom;
+  background-size: 500px;
+  box-shadow: 8px 8px 5px 0px rgba(0,0,0,0.75);
+}
+
+.signup {
+  position: absolute;
+  top: 28%;
+  left: 18%;
+  width: 65%;
+}
+
+.form-title {
+  color: #fff;
+  font-size: 1.7em;
+}
+
+.form-holder {
+  border-radius: 15px;
+  background-color: #fff;
+  margin-top: 35px;
+  opacity: 1;
+  overflow: hidden;
+}
+
+.input {
+  border: 0;
+  outline: none;
+  box-shadow: none;
+  display: block;
+  height: 30px;
+  line-height: 30px;
+  padding: 8px 15px;
+  border-bottom: 1px solid #eee;
+  width: 100%;
+  font-size: 12px;
+}
+
+.submit-btn {
+  background-color: rgba(0,0,0,0.4);
+  color: rgba(256,256,256,0.7);
+  border:0;
+  border-radius: 15px;
+  display: block;
+  margin: 15px auto; 
+  padding: 15px 45px;
+  width: 100%;
+  font-size: 13px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.submit-btn:hover {
+  transition: all .3s ease;
+  background-color: rgba(0,0,0,0.8);
+}
+
