@@ -1,0 +1,19 @@
+li:nth-child(2) {
+	color: blue;
+}
+
+ul > li:hover {
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+div:nth-child(2) > p:first-child {
+	color: white;
+	background-color: pink;
+}
+
+div:nth-child(2) > p:nth-child(3) {
+	background-color: lightblue;
+	padding: 50px;
+	margin: 55px;
+}

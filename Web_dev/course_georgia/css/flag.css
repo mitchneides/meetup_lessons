@@ -1,0 +1,22 @@
+div	{
+	display: inline-block;
+}
+
+#red {
+	background-color: red;
+	height: 200px;
+	width:100px;
+}
+
+#white {
+	background-color: white;
+	height: 200px;
+	width:100px;
+}
+
+#blue {
+	background-color: blue;
+	height: 200px;
+	width:100px;
+}
+

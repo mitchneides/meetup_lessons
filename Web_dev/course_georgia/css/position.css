@@ -1,0 +1,31 @@
+#grey {
+	background-color: grey;
+	width: 60vw;
+	height: 40vh;
+	position: fixed;
+}
+
+#blue {
+	background-color: blue;
+	width: 20vw;
+	height: 35vh;
+	position: relative;
+	left: 5px;
+	top: 5px;
+}
+
+#orange {
+	background-color: orange;
+	width: 20vw;
+	height: 35vh;
+	position: relative;
+	left: 5px;
+	top: 5px;
+}
+
+
+
+
+#blue {
+	overflow: visible;
+}
